@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 experience:
   - title: CEO
-    company: GenCoin
+    company: GenCoin$$
     company_url: ""
     company_logo: org-gc
     location: California
